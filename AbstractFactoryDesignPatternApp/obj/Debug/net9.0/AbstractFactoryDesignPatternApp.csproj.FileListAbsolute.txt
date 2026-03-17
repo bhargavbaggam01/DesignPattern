@@ -1,0 +1,14 @@
+C:\Users\baggambhargav\zMy Files\Angular\interview-helper-main\DesignPattern\AbstractFactoryDesignPatternApp\bin\Debug\net9.0\AbstractFactoryDesignPatternApp.exe
+C:\Users\baggambhargav\zMy Files\Angular\interview-helper-main\DesignPattern\AbstractFactoryDesignPatternApp\bin\Debug\net9.0\AbstractFactoryDesignPatternApp.deps.json
+C:\Users\baggambhargav\zMy Files\Angular\interview-helper-main\DesignPattern\AbstractFactoryDesignPatternApp\bin\Debug\net9.0\AbstractFactoryDesignPatternApp.runtimeconfig.json
+C:\Users\baggambhargav\zMy Files\Angular\interview-helper-main\DesignPattern\AbstractFactoryDesignPatternApp\bin\Debug\net9.0\AbstractFactoryDesignPatternApp.dll
+C:\Users\baggambhargav\zMy Files\Angular\interview-helper-main\DesignPattern\AbstractFactoryDesignPatternApp\bin\Debug\net9.0\AbstractFactoryDesignPatternApp.pdb
+C:\Users\baggambhargav\zMy Files\Angular\interview-helper-main\DesignPattern\AbstractFactoryDesignPatternApp\obj\Debug\net9.0\AbstractFactoryDesignPatternApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baggambhargav\zMy Files\Angular\interview-helper-main\DesignPattern\AbstractFactoryDesignPatternApp\obj\Debug\net9.0\AbstractFactoryDesignPatternApp.AssemblyInfoInputs.cache
+C:\Users\baggambhargav\zMy Files\Angular\interview-helper-main\DesignPattern\AbstractFactoryDesignPatternApp\obj\Debug\net9.0\AbstractFactoryDesignPatternApp.AssemblyInfo.cs
+C:\Users\baggambhargav\zMy Files\Angular\interview-helper-main\DesignPattern\AbstractFactoryDesignPatternApp\obj\Debug\net9.0\AbstractFactoryDesignPatternApp.csproj.CoreCompileInputs.cache
+C:\Users\baggambhargav\zMy Files\Angular\interview-helper-main\DesignPattern\AbstractFactoryDesignPatternApp\obj\Debug\net9.0\AbstractFactoryDesignPatternApp.dll
+C:\Users\baggambhargav\zMy Files\Angular\interview-helper-main\DesignPattern\AbstractFactoryDesignPatternApp\obj\Debug\net9.0\refint\AbstractFactoryDesignPatternApp.dll
+C:\Users\baggambhargav\zMy Files\Angular\interview-helper-main\DesignPattern\AbstractFactoryDesignPatternApp\obj\Debug\net9.0\AbstractFactoryDesignPatternApp.pdb
+C:\Users\baggambhargav\zMy Files\Angular\interview-helper-main\DesignPattern\AbstractFactoryDesignPatternApp\obj\Debug\net9.0\AbstractFactoryDesignPatternApp.genruntimeconfig.cache
+C:\Users\baggambhargav\zMy Files\Angular\interview-helper-main\DesignPattern\AbstractFactoryDesignPatternApp\obj\Debug\net9.0\ref\AbstractFactoryDesignPatternApp.dll

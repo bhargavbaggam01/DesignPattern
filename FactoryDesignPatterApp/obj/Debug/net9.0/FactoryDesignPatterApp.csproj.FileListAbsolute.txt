@@ -1,0 +1,4 @@
+C:\Users\baggambhargav\zMy Files\Angular\interview-helper-main\DesignPattern\FactoryDesignPatterApp\obj\Debug\net9.0\FactoryDesignPatterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baggambhargav\zMy Files\Angular\interview-helper-main\DesignPattern\FactoryDesignPatterApp\obj\Debug\net9.0\FactoryDesignPatterApp.AssemblyInfoInputs.cache
+C:\Users\baggambhargav\zMy Files\Angular\interview-helper-main\DesignPattern\FactoryDesignPatterApp\obj\Debug\net9.0\FactoryDesignPatterApp.AssemblyInfo.cs
+C:\Users\baggambhargav\zMy Files\Angular\interview-helper-main\DesignPattern\FactoryDesignPatterApp\obj\Debug\net9.0\FactoryDesignPatterApp.csproj.CoreCompileInputs.cache
