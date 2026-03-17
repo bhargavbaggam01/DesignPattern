@@ -1,0 +1,15 @@
+C:\Users\baggambhargav\zMy Files\Angular\interview-helper-main\DesignPattern\BuilderDesignPatternApp\bin\Debug\net9.0\BuilderDesignPatternApp.exe
+C:\Users\baggambhargav\zMy Files\Angular\interview-helper-main\DesignPattern\BuilderDesignPatternApp\bin\Debug\net9.0\BuilderDesignPatternApp.deps.json
+C:\Users\baggambhargav\zMy Files\Angular\interview-helper-main\DesignPattern\BuilderDesignPatternApp\bin\Debug\net9.0\BuilderDesignPatternApp.runtimeconfig.json
+C:\Users\baggambhargav\zMy Files\Angular\interview-helper-main\DesignPattern\BuilderDesignPatternApp\bin\Debug\net9.0\BuilderDesignPatternApp.dll
+C:\Users\baggambhargav\zMy Files\Angular\interview-helper-main\DesignPattern\BuilderDesignPatternApp\bin\Debug\net9.0\BuilderDesignPatternApp.pdb
+C:\Users\baggambhargav\zMy Files\Angular\interview-helper-main\DesignPattern\BuilderDesignPatternApp\obj\Debug\net9.0\BuilderDesignPatternApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baggambhargav\zMy Files\Angular\interview-helper-main\DesignPattern\BuilderDesignPatternApp\obj\Debug\net9.0\BuilderDesignPatternApp.AssemblyInfoInputs.cache
+C:\Users\baggambhargav\zMy Files\Angular\interview-helper-main\DesignPattern\BuilderDesignPatternApp\obj\Debug\net9.0\BuilderDesignPatternApp.AssemblyInfo.cs
+C:\Users\baggambhargav\zMy Files\Angular\interview-helper-main\DesignPattern\BuilderDesignPatternApp\obj\Debug\net9.0\BuilderDesignPatternApp.csproj.CoreCompileInputs.cache
+C:\Users\baggambhargav\zMy Files\Angular\interview-helper-main\DesignPattern\BuilderDesignPatternApp\obj\Debug\net9.0\BuilderDesignPatternApp.sourcelink.json
+C:\Users\baggambhargav\zMy Files\Angular\interview-helper-main\DesignPattern\BuilderDesignPatternApp\obj\Debug\net9.0\BuilderDesignPatternApp.dll
+C:\Users\baggambhargav\zMy Files\Angular\interview-helper-main\DesignPattern\BuilderDesignPatternApp\obj\Debug\net9.0\refint\BuilderDesignPatternApp.dll
+C:\Users\baggambhargav\zMy Files\Angular\interview-helper-main\DesignPattern\BuilderDesignPatternApp\obj\Debug\net9.0\BuilderDesignPatternApp.pdb
+C:\Users\baggambhargav\zMy Files\Angular\interview-helper-main\DesignPattern\BuilderDesignPatternApp\obj\Debug\net9.0\BuilderDesignPatternApp.genruntimeconfig.cache
+C:\Users\baggambhargav\zMy Files\Angular\interview-helper-main\DesignPattern\BuilderDesignPatternApp\obj\Debug\net9.0\ref\BuilderDesignPatternApp.dll

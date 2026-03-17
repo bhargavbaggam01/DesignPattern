@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\baggambhargav\\zMy Files\\Angular\\AdapterDesignPattern\\",
+  "WorkspaceRootPath": "C:\\Users\\baggambhargav\\zMy Files\\Angular\\interview-helper-main\\DesignPattern\\AdapterDesignPattern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9E23931-CE00-498C-803F-5B8EA41C79C3}|AdapterDesignPattern\\AdapterDesignPattern.csproj|c:\\users\\baggambhargav\\zmy files\\angular\\adapterdesignpattern\\adapterdesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9E23931-CE00-498C-803F-5B8EA41C79C3}|AdapterDesignPattern\\AdapterDesignPattern.csproj|solutionrelative:adapterdesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9E23931-CE00-498C-803F-5B8EA41C79C3}|AdapterDesignPattern\\AdapterDesignPattern.csproj|c:\\users\\baggambhargav\\zmy files\\angular\\adapterdesignpattern\\adapterdesignpattern\\adapter\\paymentadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9E23931-CE00-498C-803F-5B8EA41C79C3}|AdapterDesignPattern\\AdapterDesignPattern.csproj|c:\\users\\baggambhargav\\zmy files\\angular\\interview-helper-main\\designpattern\\adapterdesignpattern\\adapterdesignpattern\\adapter\\paymentadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9E23931-CE00-498C-803F-5B8EA41C79C3}|AdapterDesignPattern\\AdapterDesignPattern.csproj|solutionrelative:adapterdesignpattern\\adapter\\paymentadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9E23931-CE00-498C-803F-5B8EA41C79C3}|AdapterDesignPattern\\AdapterDesignPattern.csproj|c:\\users\\baggambhargav\\zmy files\\angular\\adapterdesignpattern\\adapterdesignpattern\\interface\\ipaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9E23931-CE00-498C-803F-5B8EA41C79C3}|AdapterDesignPattern\\AdapterDesignPattern.csproj|c:\\users\\baggambhargav\\zmy files\\angular\\interview-helper-main\\designpattern\\adapterdesignpattern\\adapterdesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9E23931-CE00-498C-803F-5B8EA41C79C3}|AdapterDesignPattern\\AdapterDesignPattern.csproj|solutionrelative:adapterdesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9E23931-CE00-498C-803F-5B8EA41C79C3}|AdapterDesignPattern\\AdapterDesignPattern.csproj|c:\\users\\baggambhargav\\zmy files\\angular\\interview-helper-main\\designpattern\\adapterdesignpattern\\adapterdesignpattern\\interface\\ipaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9E23931-CE00-498C-803F-5B8EA41C79C3}|AdapterDesignPattern\\AdapterDesignPattern.csproj|solutionrelative:adapterdesignpattern\\interface\\ipaymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9E23931-CE00-498C-803F-5B8EA41C79C3}|AdapterDesignPattern\\AdapterDesignPattern.csproj|c:\\users\\baggambhargav\\zmy files\\angular\\adapterdesignpattern\\adapterdesignpattern\\thirdpartyclass\\thirdpartypaymentgateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9E23931-CE00-498C-803F-5B8EA41C79C3}|AdapterDesignPattern\\AdapterDesignPattern.csproj|c:\\users\\baggambhargav\\zmy files\\angular\\interview-helper-main\\designpattern\\adapterdesignpattern\\adapterdesignpattern\\thirdpartyclass\\thirdpartypaymentgateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9E23931-CE00-498C-803F-5B8EA41C79C3}|AdapterDesignPattern\\AdapterDesignPattern.csproj|solutionrelative:adapterdesignpattern\\thirdpartyclass\\thirdpartypaymentgateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -57,12 +57,16 @@
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PaymentAdapter.cs",
-              "DocumentMoniker": "C:\\Users\\baggambhargav\\zMy Files\\Angular\\AdapterDesignPattern\\AdapterDesignPattern\\Adapter\\PaymentAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\baggambhargav\\zMy Files\\Angular\\interview-helper-main\\DesignPattern\\AdapterDesignPattern\\AdapterDesignPattern\\Adapter\\PaymentAdapter.cs",
               "RelativeDocumentMoniker": "AdapterDesignPattern\\Adapter\\PaymentAdapter.cs",
-              "ToolTip": "C:\\Users\\baggambhargav\\zMy Files\\Angular\\AdapterDesignPattern\\AdapterDesignPattern\\Adapter\\PaymentAdapter.cs",
+              "ToolTip": "C:\\Users\\baggambhargav\\zMy Files\\Angular\\interview-helper-main\\DesignPattern\\AdapterDesignPattern\\AdapterDesignPattern\\Adapter\\PaymentAdapter.cs",
               "RelativeToolTip": "AdapterDesignPattern\\Adapter\\PaymentAdapter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -73,44 +77,37 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ThirdPartyPaymentGateway.cs",
-              "DocumentMoniker": "C:\\Users\\baggambhargav\\zMy Files\\Angular\\AdapterDesignPattern\\AdapterDesignPattern\\ThirdPartyClass\\ThirdPartyPaymentGateway.cs",
+              "DocumentMoniker": "C:\\Users\\baggambhargav\\zMy Files\\Angular\\interview-helper-main\\DesignPattern\\AdapterDesignPattern\\AdapterDesignPattern\\ThirdPartyClass\\ThirdPartyPaymentGateway.cs",
               "RelativeDocumentMoniker": "AdapterDesignPattern\\ThirdPartyClass\\ThirdPartyPaymentGateway.cs",
-              "ToolTip": "C:\\Users\\baggambhargav\\zMy Files\\Angular\\AdapterDesignPattern\\AdapterDesignPattern\\ThirdPartyClass\\ThirdPartyPaymentGateway.cs",
+              "ToolTip": "C:\\Users\\baggambhargav\\zMy Files\\Angular\\interview-helper-main\\DesignPattern\\AdapterDesignPattern\\AdapterDesignPattern\\ThirdPartyClass\\ThirdPartyPaymentGateway.cs",
               "RelativeToolTip": "AdapterDesignPattern\\ThirdPartyClass\\ThirdPartyPaymentGateway.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T10:06:39.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T10:06:39.946Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "IPaymentProcessor.cs",
-              "DocumentMoniker": "C:\\Users\\baggambhargav\\zMy Files\\Angular\\AdapterDesignPattern\\AdapterDesignPattern\\Interface\\IPaymentProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\baggambhargav\\zMy Files\\Angular\\interview-helper-main\\DesignPattern\\AdapterDesignPattern\\AdapterDesignPattern\\Interface\\IPaymentProcessor.cs",
               "RelativeDocumentMoniker": "AdapterDesignPattern\\Interface\\IPaymentProcessor.cs",
-              "ToolTip": "C:\\Users\\baggambhargav\\zMy Files\\Angular\\AdapterDesignPattern\\AdapterDesignPattern\\Interface\\IPaymentProcessor.cs",
+              "ToolTip": "C:\\Users\\baggambhargav\\zMy Files\\Angular\\interview-helper-main\\DesignPattern\\AdapterDesignPattern\\AdapterDesignPattern\\Interface\\IPaymentProcessor.cs",
               "RelativeToolTip": "AdapterDesignPattern\\Interface\\IPaymentProcessor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T10:03:19.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-17T10:03:19.893Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\baggambhargav\\zMy Files\\Angular\\AdapterDesignPattern\\AdapterDesignPattern\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\baggambhargav\\zMy Files\\Angular\\interview-helper-main\\DesignPattern\\AdapterDesignPattern\\AdapterDesignPattern\\Program.cs",
               "RelativeDocumentMoniker": "AdapterDesignPattern\\Program.cs",
-              "ToolTip": "C:\\Users\\baggambhargav\\zMy Files\\Angular\\AdapterDesignPattern\\AdapterDesignPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\baggambhargav\\zMy Files\\Angular\\interview-helper-main\\DesignPattern\\AdapterDesignPattern\\AdapterDesignPattern\\Program.cs",
               "RelativeToolTip": "AdapterDesignPattern\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T10:00:24.828Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+              "WhenOpened": "2026-03-17T10:00:24.828Z"
             }
           ]
         }

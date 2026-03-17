@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\baggambhargav\\zMy Files\\Angular\\AdapterDesignPattern\\AdapterDesignPattern\\AdapterDesignPattern.csproj": {}
+    "C:\\Users\\baggambhargav\\zMy Files\\Angular\\interview-helper-main\\DesignPattern\\AdapterDesignPattern\\AdapterDesignPattern\\AdapterDesignPattern.csproj": {}
   },
   "projects": {
-    "C:\\Users\\baggambhargav\\zMy Files\\Angular\\AdapterDesignPattern\\AdapterDesignPattern\\AdapterDesignPattern.csproj": {
+    "C:\\Users\\baggambhargav\\zMy Files\\Angular\\interview-helper-main\\DesignPattern\\AdapterDesignPattern\\AdapterDesignPattern\\AdapterDesignPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\baggambhargav\\zMy Files\\Angular\\AdapterDesignPattern\\AdapterDesignPattern\\AdapterDesignPattern.csproj",
+        "projectUniqueName": "C:\\Users\\baggambhargav\\zMy Files\\Angular\\interview-helper-main\\DesignPattern\\AdapterDesignPattern\\AdapterDesignPattern\\AdapterDesignPattern.csproj",
         "projectName": "AdapterDesignPattern",
-        "projectPath": "C:\\Users\\baggambhargav\\zMy Files\\Angular\\AdapterDesignPattern\\AdapterDesignPattern\\AdapterDesignPattern.csproj",
+        "projectPath": "C:\\Users\\baggambhargav\\zMy Files\\Angular\\interview-helper-main\\DesignPattern\\AdapterDesignPattern\\AdapterDesignPattern\\AdapterDesignPattern.csproj",
         "packagesPath": "C:\\Users\\baggambhargav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\baggambhargav\\zMy Files\\Angular\\AdapterDesignPattern\\AdapterDesignPattern\\obj\\",
+        "outputPath": "C:\\Users\\baggambhargav\\zMy Files\\Angular\\interview-helper-main\\DesignPattern\\AdapterDesignPattern\\AdapterDesignPattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
